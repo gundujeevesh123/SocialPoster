@@ -1,0 +1,103 @@
+This project is a **Social Media Automation Platform**.
+
+The primary reference is the uploaded PDF documentation.
+
+The application allows users to:
+
+• Upload media once
+
+• Connect their social accounts using OAuth
+
+• Generate platform-specific captions
+
+• Preview every platform
+
+• Publish immediately
+
+• Schedule posts
+
+Supported platforms:
+
+• Instagram
+
+• Facebook
+
+• LinkedIn
+
+• YouTube
+
+Future platforms may include:
+
+• X (Twitter)
+
+• Threads
+
+• TikTok
+
+• Pinterest
+
+The application must only use **official APIs** and **OAuth**.
+
+No browser automation.
+
+No password storage.
+
+No scraping.
+
+The system should include:
+
+Frontend
+
+Backend
+
+Database
+
+Queue Workers
+
+Background Jobs
+
+Cloud Storage
+
+OAuth
+
+Secure Token Storage
+
+Monitoring
+
+Logging
+
+Retry Logic
+
+Scheduling
+
+Audit Logs
+
+Notifications
+
+Deployment
+
+The application should be production-ready and scalable.
+
+The final deliverables should include:
+
+• Architecture
+
+• Workflow
+
+• API Requirements
+
+• OAuth Requirements
+
+• API Key Checklist
+
+• Technology Stack
+
+• Deployment Strategy
+
+• Security Best Practices
+
+• Development Roadmap
+
+• Production Checklist
+
+The project should prioritize maintainability, extensibility, and security while following current platform requirements.

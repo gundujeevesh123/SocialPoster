@@ -1,0 +1,22 @@
+# secrets & local state — never commit
+.env
+*.env.local
+apps/api/data/
+apps/api/storage/
+Git-HUB_AccessToken.txt
+
+# python
+__pycache__/
+*.pyc
+.venv/
+.pytest_cache/
+
+# node / next
+node_modules/
+apps/web/.next/
+apps/web/out/
+
+# misc
+.DS_Store
+*.log
+docs/security-reports/*.raw.json
